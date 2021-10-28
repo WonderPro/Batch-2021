@@ -1,11 +1,8 @@
-#Python Basic syllabus
-1) Variables and operators
-
-2) Loops and nested loops
-
-3) Lists, tuples and dictionaries
-
-4) String functions
+# Python Basic syllabus
+>  1) Variables and operator
+>  2) Loops and nested loops
+>  3) Lists, tuples and dictionaries
+>  4) String functions
 
 ____
 1) Introduction and Installation
