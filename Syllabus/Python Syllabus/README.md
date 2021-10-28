@@ -31,7 +31,7 @@ ____
 24) String Methods Part-1
 25) String Methods Part-2
 26) String Methods Part-3
-27) Summary of the basic course.](https://dev.to/aatmaj/learning-python-basic-course-day-25-summary-of-the-basic-course-563j)
+27) Summary of the basic course.
 
 _^^ - Material outside of Python._
 
