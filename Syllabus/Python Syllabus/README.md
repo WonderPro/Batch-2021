@@ -5,7 +5,7 @@
 >  4) String functions
 
 ____
-1) Introduction and Installation
+1) [Introduction and Installation](https://github.com/Aatmaj-Zephyr/Learning-Python/tree/main/Basic/Day%201)
 2) Why Python? ^^
 3) Statements, Comments and Indentation
 4) Operators and If-elif-else
