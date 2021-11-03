@@ -7,7 +7,7 @@
 ____
 1) [Introduction and Installation](https://github.com/Aatmaj-Zephyr/Learning-Python/tree/main/Basic/Day%201)
 2) [Why Python?](https://dev.to/shivashishthak3/top-reasons-why-learning-python-is-the-best-decision-392k) ^^
-3) Statements, Comments and Indentation
+3) [Statements, Comments and Indentation](https://github.com/Aatmaj-Zephyr/Learning-Python/tree/main/Basic/Day%202)
 4) Operators and If-elif-else
 5) The for loop
 6) Summary Interview questions
