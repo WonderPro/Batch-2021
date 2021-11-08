@@ -9,7 +9,7 @@ ____
 2) [Why Python?](https://dev.to/shivashishthak3/top-reasons-why-learning-python-is-the-best-decision-392k) ^^
 3) [Statements, Comments and Indentation](https://github.com/Aatmaj-Zephyr/Learning-Python/tree/main/Basic/Day%202)
 4) [Operators and If-elif-else](https://github.com/Aatmaj-Zephyr/Learning-Python/tree/main/Basic/Day%203)
-5) The for loop
+5) [The for loop](https://github.com/Aatmaj-Zephyr/Learning-Python/tree/main/Basic/Day%204)
 6) Summary Interview questions
 7) The While Loop and more questions
 8) Exercises and coding challenges⚔️
