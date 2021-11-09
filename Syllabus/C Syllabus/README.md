@@ -11,7 +11,7 @@ C syllabus
 3) [C yesterday,](https://github.com/WonderPro/Batch-2021/blob/6b482c1dc40bbafb4e88f8f0ebcaf0a911a8c344/Content/More%20about%20C/README.md)     [ today and tomorrow.](https://www.educative.io/blog/now-is-the-perfect-time-to-learn-c)
 4) [Variables](https://www.geeksforgeeks.org/variables-and-keywords-in-c/) and [data types](https://www.programiz.com/c-programming/c-data-types) in C.
 5) [Operators in C.](https://www.programiz.com/c-programming/c-operators)
-6) If-else and For loop.
+6) [If-else](https://www.programiz.com/c-programming/c-if-else-statement) and [For loop](https://www.programiz.com/c-programming/c-for-loop).
 7) While and do while loop.
 8) Conversion of loops (hw), infinite and nested loops.
 9) Switch case and enum.
