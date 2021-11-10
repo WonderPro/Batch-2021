@@ -10,7 +10,7 @@ ____
 3) [Statements, Comments and Indentation](https://github.com/Aatmaj-Zephyr/Learning-Python/tree/main/Basic/Day%202)
 4) [Operators and If-elif-else](https://github.com/Aatmaj-Zephyr/Learning-Python/tree/main/Basic/Day%203)
 5) [The for loop](https://github.com/Aatmaj-Zephyr/Learning-Python/tree/main/Basic/Day%204)
-6) Summary Interview questions
+6) [Summary Interview questions](https://github.com/Aatmaj-Zephyr/Learning-Python/tree/main/Basic/Day%205)
 7) The While Loop and more questions
 8) Exercises and coding challenges⚔️
 9) Unicode in Python
