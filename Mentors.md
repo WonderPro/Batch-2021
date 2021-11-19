@@ -32,7 +32,7 @@ solutions.
 
 ______
 
-<img align="right" width="400" src="https://avatars.githubusercontent.com/u/77779003?v=4">
+<img align="right" width="400" src="https://avatars.githubusercontent.com/u/83284294?v=4">
 
 ### **Aatmaj Zephyr**
 
@@ -47,10 +47,15 @@ ______
 ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
+
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)
+
+
 ![MATLAB](https://img.shields.io/badge/MATLAB-image%20processing-yellowgreen)
+![](https://img.shields.io/badge/W3.CSS-Responsive-brightgreen)
 
 
 **Contact via**
@@ -59,7 +64,7 @@ ______
 <a target="_blank" href="https://github.com/Aatmaj-Zephyr"><img src="https://img.icons8.com/dusk/50/000000/github.png"></a>
 <a target="_blank" href="https://www.linkedin.com/in/aatmajmhatre/"><img src="https://img.icons8.com/dusk/50/000000/linkedin.png"></a>
 <a target="_blank" href="https://aatmaj.mhatre@gmail.com"><img src="https://img.icons8.com/dusk/50/000000/gmail.png"></a>
-<a target="_blank" href="https://dev.to/aatmaj"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"</a>
+<a target="_blank" href="https://dev.to/aatmaj"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"></a>
 
 
 
