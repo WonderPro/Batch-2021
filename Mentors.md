@@ -32,13 +32,14 @@ solutions.
 
 ______
 
-<img align="right" width="400" src="https://avatars.githubusercontent.com/u/83284294?v=4">
+<img align="right" width="400" src="https://user-images.githubusercontent.com/83284294/142578722-8df2cc89-82fe-4648-a86e-bfe05de6159a.jpg">
+
 
 ### **Aatmaj Zephyr**
 
 **KJSCE Comps B**
 
-
+Aatmaj Mhatre is a computer science enthusiast with a keen interest in Maths. He is the** C language mentor** for this program. Always ready to help and guide others, Aatmaj likes to tinker around things and innovate new ideas. Teaching is his passion. He has recently taught a course on Python with over 70 parts on the Dev.to platform and has written an ebook on basics of MATLAB.
 
 **Skills**
 
@@ -64,7 +65,7 @@ ______
 <a target="_blank" href="https://github.com/Aatmaj-Zephyr"><img src="https://img.icons8.com/dusk/50/000000/github.png"></a>
 <a target="_blank" href="https://www.linkedin.com/in/aatmajmhatre/"><img src="https://img.icons8.com/dusk/50/000000/linkedin.png"></a>
 <a target="_blank" href="https://aatmaj.mhatre@gmail.com"><img src="https://img.icons8.com/dusk/50/000000/gmail.png"></a>
-<a target="_blank" href="https://dev.to/aatmaj"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"></a>
+
 
 
 
@@ -73,13 +74,16 @@ ______
 
 # Coordinators
 
-<img align="left" src="https://user-images.githubusercontent.com/83284294/142576882-a12aed23-54d3-4aa9-a976-bbd1e60bba1e.jpeg">
+<img width="300" align="left" src="https://user-images.githubusercontent.com/83284294/142576882-a12aed23-54d3-4aa9-a976-bbd1e60bba1e.jpeg">
 
-### Tanmay DK
+### Tanmay Dickey
 
 **KJSCE MECH J**
 
+A people's guy. That's what Tanmay is known as. Tanmay is a very friendly guy whome you all might like to make friends with. He is one of the coordinators for this program. Tanmay likes to connect with new people, make buddies and help the community. Effective communication, high energy and focus driven approach is what makes Tanmay the popular hero. He is always eager to help others in any situation. He is also passionate about technology and learning new skills.
+
 **Connect via-**
+
 <a target="_blank" href="https://wa.me/919324647424?text=Hi+Tanmay"><img src="https://img.icons8.com/dusk/50/000000/whatsapp.png"></a>
 <a target="_blank" href="https://github.com/Enceladus329"><img src="https://img.icons8.com/dusk/50/000000/github.png"></a>
 <br><br><br><br><br><br>
@@ -93,7 +97,7 @@ ____
 
 **KJSCE EXTC D**
 
-Deeply passionate about technology, Atharva Karawade likes to explore new stuff. He is one of the coordinator for this program. He loves discussing stuff with others and helping everyone. He is an extrovert and loves making new friends with similar interests. He has  developed the qualities ot effective communication and social skills through several discussion sessions and debates about technology in his junior college years.
+Deeply passionate about technology, Atharva Karawade likes to explore new stuff. He is one of the coordinator for this program. He loves discussing stuff with others and helping everyone. He is an extrovert and loves making new friends with similar interests. He has  developed the qualities of effective communication and social skills through several discussion sessions and debates about technology in his junior college years.
 And last but not the least, you'll have a great buddy to hang out with!
 
 **Hoping to talk with Y'all soon, via-**
