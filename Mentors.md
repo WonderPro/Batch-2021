@@ -39,7 +39,7 @@ ______
 
 **KJSCE Comps B**
 
-Aatmaj Mhatre is a computer science enthusiast with a keen interest in Maths. He is the** C language mentor** for this program. Always ready to help and guide others, Aatmaj likes to tinker around things and innovate new ideas. Teaching is his passion. He has recently taught a course on Python with over 70 parts on the Dev.to platform and has written an ebook on basics of MATLAB.
+Aatmaj is a computer science enthusiast with a keen interest in Maths. He is the **C language mentor** for this program. Always ready to help and guide others, Aatmaj likes to tinker around things and innovate new ideas. Teaching is his passion. He has recently taught a course on Python with over 70 parts on the Dev.to platform and has written an ebook on basics of MATLAB.
 
 **Skills**
 
