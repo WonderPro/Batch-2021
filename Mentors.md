@@ -76,7 +76,7 @@ Aatmaj is a computer science enthusiast with a keen interest in Maths. He is the
 
 <img width="300" align="left" src="https://user-images.githubusercontent.com/83284294/142576882-a12aed23-54d3-4aa9-a976-bbd1e60bba1e.jpeg">
 
-### Tanmay Dickey
+### Tanmay Dikey
 
 **KJSCE MECH J**
 
