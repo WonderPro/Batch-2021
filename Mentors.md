@@ -30,6 +30,36 @@ solutions.
 <a target="_blank" href="https://twitter.com/AryaNair__?t=VutGetVO0ripTINaJXMS3Q&s=09"><img src="https://img.icons8.com/dusk/50/000000/twitter.png"></a>
 <a target="_blank" href="https://www.instagram.com/aryarox/"><img src="https://img.icons8.com/dusk/50/000000/instagram.png"></a>
 
+______
+
+<img align="right" width="400" src="https://avatars.githubusercontent.com/u/77779003?v=4">
+
+### **Aatmaj Zephyr**
+
+**KJSCE Comps B**
+
+
+
+**Skills**
+
+![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-image%20processing-yellowgreen)
+
+
+**Contact via**
+
+<a target="_blank" href="https://wa.me/918879214633?text=Hi+Aatmaj"><img src="https://img.icons8.com/dusk/50/000000/whatsapp.png"></a>
+<a target="_blank" href="https://github.com/Aatmaj-Zephyr"><img src="https://img.icons8.com/dusk/50/000000/github.png"></a>
+<a target="_blank" href="https://www.linkedin.com/in/aatmajmhatre/"><img src="https://img.icons8.com/dusk/50/000000/linkedin.png"></a>
+<a target="_blank" href="https://aatmaj.mhatre@gmail.com"><img src="https://img.icons8.com/dusk/50/000000/gmail.png"></a>
+<a target="_blank" href="https://dev.to/aatmaj"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"</a>
 
 
 
@@ -38,12 +68,13 @@ solutions.
 
 # Coordinators
 
-<img align="left" src="https://user-images.githubusercontent.com/83284294/142568713-6a1e3a27-0c0d-403f-bb4b-91ac9d91dd5f.png">
+<img align="left" src="https://user-images.githubusercontent.com/83284294/142576882-a12aed23-54d3-4aa9-a976-bbd1e60bba1e.jpeg">
 
 ### Tanmay DK
 
 **KJSCE MECH J**
 
+**Connect via-**
 <a target="_blank" href="https://wa.me/919324647424?text=Hi+Tanmay"><img src="https://img.icons8.com/dusk/50/000000/whatsapp.png"></a>
 <a target="_blank" href="https://github.com/Enceladus329"><img src="https://img.icons8.com/dusk/50/000000/github.png"></a>
 <br><br><br><br><br><br>
@@ -56,6 +87,11 @@ ____
 ### Atharva Karawde
 
 **KJSCE EXTC D**
+
+Deeply passionate about technology, Atharva Karawade likes to explore new stuff. He is one of the coordinator for this program. He loves discussing stuff with others and helping everyone. He is an extrovert and loves making new friends with similar interests. He has  developed the qualities ot effective communication and social skills through several discussion sessions and debates about technology in his junior college years.
+And last but not the least, you'll have a great buddy to hang out with!
+
+**Hoping to talk with Y'all soon, via-**
 
 <a target="_blank" href="https://wa.me/918369800824?text=Hi+Atharva"><img src="https://img.icons8.com/dusk/50/000000/whatsapp.png"></a>
 <a target="_blank" href="https://github.com/atharva100"><img src="https://img.icons8.com/dusk/50/000000/github.png"></a>
