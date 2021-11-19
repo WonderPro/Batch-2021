@@ -80,12 +80,13 @@ Aatmaj is a computer science enthusiast with a keen interest in Maths. He is the
 
 **KJSCE MECH J**
 
-A people's guy. That's what Tanmay is known as. Tanmay is a very friendly guy whome you all might like to make friends with. He is one of the coordinators for this program. Tanmay likes to connect with new people, make buddies and help the community. Effective communication, high energy and focus driven approach is what makes Tanmay the popular hero. He is always eager to help others in any situation. He is also passionate about technology and learning new skills.
+A people's guy. That's what Tanmay is known as. Tanmay is a very friendly guy whom you all might like to make friends with. He is one of the coordinators for this program. Tanmay likes to connect with new people, make buddies and help the community. Effective communication, high energy and focus driven approach is what makes Tanmay the popular hero. He is always eager to help others in any situation. He is also passionate about technology and learning new skills.
 
 **Connect via-**
 
 <a target="_blank" href="https://wa.me/919324647424?text=Hi+Tanmay"><img src="https://img.icons8.com/dusk/50/000000/whatsapp.png"></a>
 <a target="_blank" href="https://github.com/Enceladus329"><img src="https://img.icons8.com/dusk/50/000000/github.png"></a>
+<a target="_blank" href="tanmay.dikey@somaiya.edu"><img src="https://img.icons8.com/dusk/50/000000/gmail.png"></a>
 <br><br><br><br><br><br>
 
 
