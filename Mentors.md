@@ -99,7 +99,7 @@ Attreyee Mukherjee is our **Python mentor**. She is a Technology Enthusiast who 
 <a target="_blank" href="https://wa.me/919930205268?text=Hi+Attreyee"><img src="https://img.icons8.com/dusk/50/000000/whatsapp.png"></a>
 <a target="_blank" href="https://github.com/a-muk"><img src="https://img.icons8.com/dusk/50/000000/github.png"></a>
 <a target="_blank" href="https://www.linkedin.com/in/attreyee-mukherjee-551b4221a/"><img src="https://img.icons8.com/dusk/50/000000/linkedin.png"></a>
-
+<a target="_blank" href="mailto:mukattreyee@gmail.com"><img src="https://img.icons8.com/dusk/50/000000/gmail.png"></a>
 <a target="_blank" href="https://twitter.com/twtamuk"><img src="https://img.icons8.com/dusk/50/000000/twitter.png"></a>
 <a target="_blank" href="https://www.instagram.com/__adormango/"><img src="https://img.icons8.com/dusk/50/000000/instagram.png"></a>
 
