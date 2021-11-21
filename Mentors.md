@@ -26,7 +26,7 @@ solutions.
 <a target="_blank" href="https://wa.me/919920646238?text=Hi+Arya"><img src="https://img.icons8.com/dusk/50/000000/whatsapp.png"></a>
 <a target="_blank" href="https://github.com/Arya-A-Nair"><img src="https://img.icons8.com/dusk/50/000000/github.png"></a>
 <a target="_blank" href="http://www.linkedin.com/in/arya-nair-2003"><img src="https://img.icons8.com/dusk/50/000000/linkedin.png"></a>
-<a target="_blank" href="https://aryaajitnair@gmail.com"><img src="https://img.icons8.com/dusk/50/000000/gmail.png"></a>
+<a target="_blank" href="mailto:aryaajitnair@gmail.com"><img src="https://img.icons8.com/dusk/50/000000/gmail.png"></a>
 <a target="_blank" href="https://twitter.com/AryaNair__?t=VutGetVO0ripTINaJXMS3Q&s=09"><img src="https://img.icons8.com/dusk/50/000000/twitter.png"></a>
 <a target="_blank" href="https://www.instagram.com/aryarox/"><img src="https://img.icons8.com/dusk/50/000000/instagram.png"></a>
 <br><br><br>
@@ -65,7 +65,7 @@ Aatmaj is a computer science enthusiast with a keen interest in Maths. He is the
 <a target="_blank" href="https://wa.me/918879214633?text=Hi+Aatmaj"><img src="https://img.icons8.com/dusk/50/000000/whatsapp.png"></a>
 <a target="_blank" href="https://github.com/Aatmaj-Zephyr"><img src="https://img.icons8.com/dusk/50/000000/github.png"></a>
 <a target="_blank" href="https://www.linkedin.com/in/aatmajmhatre/"><img src="https://img.icons8.com/dusk/50/000000/linkedin.png"></a>
-<a target="_blank" href="https://aatmaj.mhatre@gmail.com"><img src="https://img.icons8.com/dusk/50/000000/gmail.png"></a>
+<a target="_blank" href="mailto:aatmaj.mhatre@gmail.com"><img src="https://img.icons8.com/dusk/50/000000/gmail.png"></a>
 
 
 
@@ -99,7 +99,7 @@ Attreyee Mukherjee is our **Python mentor**. She is a Technology Enthusiast who 
 <a target="_blank" href="https://wa.me/919930205268?text=Hi+Attreyee"><img src="https://img.icons8.com/dusk/50/000000/whatsapp.png"></a>
 <a target="_blank" href="https://github.com/a-muk"><img src="https://img.icons8.com/dusk/50/000000/github.png"></a>
 <a target="_blank" href="https://www.linkedin.com/in/attreyee-mukherjee-551b4221a/"><img src="https://img.icons8.com/dusk/50/000000/linkedin.png"></a>
-<a target="_blank" href="https://aryaajitnair@gmail.com"><img src="https://img.icons8.com/dusk/50/000000/gmail.png"></a>
+
 <a target="_blank" href="https://twitter.com/twtamuk"><img src="https://img.icons8.com/dusk/50/000000/twitter.png"></a>
 <a target="_blank" href="https://www.instagram.com/__adormango/"><img src="https://img.icons8.com/dusk/50/000000/instagram.png"></a>
 
@@ -118,7 +118,7 @@ A people's guy. That's what Tanmay is known as. Tanmay is a very friendly guy wh
 
 <a target="_blank" href="https://wa.me/919324647424?text=Hi+Tanmay"><img src="https://img.icons8.com/dusk/50/000000/whatsapp.png"></a>
 <a target="_blank" href="https://github.com/Enceladus329"><img src="https://img.icons8.com/dusk/50/000000/github.png"></a>
-<a target="_blank" href="tanmay.dikey@somaiya.edu"><img src="https://img.icons8.com/dusk/50/000000/gmail.png"></a>
+<a target="_blank" href="mailto:tanmay.dikey@somaiya.edu"><img src="https://img.icons8.com/dusk/50/000000/gmail.png"></a>
 <br><br><br><br><br><br>
 
 
@@ -138,7 +138,7 @@ And last but not the least, you'll have a great buddy to hang out with!
 <a target="_blank" href="https://wa.me/918369800824?text=Hi+Atharva"><img src="https://img.icons8.com/dusk/50/000000/whatsapp.png"></a>
 <a target="_blank" href="https://github.com/atharva100"><img src="https://img.icons8.com/dusk/50/000000/github.png"></a>
 <a target="_blank" href="https://www.instagram.com/Atharva_k.007/"><img src="https://img.icons8.com/dusk/50/000000/instagram.png"></a>
-<a target="_blank" href="atharva.karawade@somaiya.edu"><img src="https://img.icons8.com/dusk/50/000000/gmail.png"></a>
+<a target="_blank" href="mailto:atharva.karawade@somaiya.edu"><img src="https://img.icons8.com/dusk/50/000000/gmail.png"></a>
 
  
 
