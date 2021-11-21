@@ -106,7 +106,7 @@ Attreyee Mukherjee is our **Python mentor**. She is a Technology Enthusiast who 
 ___
 # Coordinators
 
-<img width="400" align="left" src="https://user-images.githubusercontent.com/83284294/142576882-a12aed23-54d3-4aa9-a976-bbd1e60bba1e.jpeg">
+<img width="300" align="left" src="https://user-images.githubusercontent.com/83284294/142762313-9342e285-2bf8-4545-b7a0-4157261f0383.jpeg">
 
 # Tanmay Dikey
 
