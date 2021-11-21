@@ -6,7 +6,7 @@
 
 # **Arya Nair**
 
-**KJSCE IT H**
+**KJSCE IT G**
 
 Strong in design and integration with intuitive problem-solving
 skills, Arya Nair is the **C language mentor** for our project. Arya is a guy who is always passionate about implementing and launching new projects. He never hesitates to help others in need. Proficient in Python, HTML, CSS, JAVASCRIPT,C++, Arya has the ability to translate business requirements into technical
