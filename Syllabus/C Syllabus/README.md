@@ -13,7 +13,7 @@ C syllabus
 5) [Operators in C.](https://www.programiz.com/c-programming/c-operators)
 6) [If-else](https://www.programiz.com/c-programming/c-if-else-statement) and [For loop](https://www.programiz.com/c-programming/c-for-loop).
 7) [While and do while loop](https://www.programiz.com/c-programming/c-do-while-loops)
-8) [Conversion of loops](https://www.equestionanswers.com/c/for-loop-while-loop.php)(homework),[infinite loops](https://www.javatpoint.com/infinite-loop-in-c) and [nested loops](https://www.javatpoint.com/nested-loops-in-c).
+8) [Conversion of loops](https://www.equestionanswers.com/c/for-loop-while-loop.php),[infinite loops](https://www.javatpoint.com/infinite-loop-in-c) and [nested loops](https://www.javatpoint.com/nested-loops-in-c).
 9) Switch case and enum.
 10) Break, continue and goto.
 11) Functions in C.
