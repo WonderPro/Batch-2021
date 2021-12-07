@@ -11,11 +11,11 @@ ____
 4) [Operators and If-elif-else](https://github.com/Aatmaj-Zephyr/Learning-Python/tree/main/Basic/Day%203)
 5) [The for loop](https://github.com/Aatmaj-Zephyr/Learning-Python/tree/main/Basic/Day%204)
 6) [Summary Interview questions](https://github.com/Aatmaj-Zephyr/Learning-Python/tree/main/Basic/Day%205)
-7) The While Loop and more questions
-8) Exercises and coding challenges⚔️
-9) Unicode in Python
-10) Summary of the week and exercises.
-11) Lists in Python
+7) [The While Loop and more questions](https://github.com/Aatmaj-Zephyr/Learning-Python/tree/main/Basic/Day%206)
+8) [Exercises and coding challenges⚔️](https://github.com/Aatmaj-Zephyr/Learning-Python/tree/main/Basic/Day%207)
+9) [Unicode in Python](https://github.com/Aatmaj-Zephyr/Learning-Python/tree/main/Basic/Day%208)
+10) [Summary of the week and exercises.](https://github.com/Aatmaj-Zephyr/Learning-Python/tree/main/Basic/Day%209)
+11) [Lists in Python](https://github.com/Aatmaj-Zephyr/Learning-Python/tree/main/Basic/Day%2010)
 12) Multidimensional lists and Tuples
 13) Basic algorithms
 14) Stack implementation
