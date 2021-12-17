@@ -1,6 +1,6 @@
 name: delete branch on close pr
 on: 
-  workflow_run:
+  workflow_dispatch:
   pull_request:
     types: [closed]
   
