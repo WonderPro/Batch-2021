@@ -18,14 +18,21 @@ C syllabus
 10) [Break, continue](https://www.programiz.com/c-programming/c-break-continue-statement),and [goto](https://www.tutorialspoint.com/cprogramming/c_goto_statement.htm).
 11) [Functions](https://www.javatpoint.com/functions-in-c) in C.
 12) [Recursion](https://www.tutorialspoint.com/cprogramming/c_recursion.htm) and [principles of recursion](http://www.cems.uwe.ac.uk/~irjohnso/coursenotes/lrc/lect/lect4b1.html).
-13) Recursion in C.
-14) Array part 1
-15) Array part 2
-16) Strings part 1
-17) Strings part 2
-18) What are pointers?
-19) Pointer arithmatic.
-20) Application of pointers.
-21) Pass by value and pass by reference.
-22) Structure in C.
-23) Union in C.
+
+More reference links on Recursion- 
+https://www.byte-by-byte.com/recursion/
+https://medium.com/front-end-weekly/a-quick-guide-to-recursion-by-example-c0e7949b8ab6
+https://www.byte-by-byte.com/recursion/
+
+
+14) Recursion in C.
+15) Array part 1
+16) Array part 2
+17) Strings part 1
+18) Strings part 2
+19) What are pointers?
+20) Pointer arithmatic.
+21) Application of pointers.
+22) Pass by value and pass by reference.
+23) Structure in C.
+24) Union in C.
