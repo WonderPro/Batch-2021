@@ -17,7 +17,7 @@ C syllabus
 9) [Switch case](https://www.programiz.com/c-programming/c-switch-case-statement) and [enum](https://www.geeksforgeeks.org/enumeration-enum-c/).
 10) [Break, continue](https://www.programiz.com/c-programming/c-break-continue-statement),and [goto](https://www.tutorialspoint.com/cprogramming/c_goto_statement.htm).
 11) [Functions](https://www.javatpoint.com/functions-in-c) in C.
-12) Recursion and principles of recursion.
+12) [Recursion](https://www.tutorialspoint.com/cprogramming/c_recursion.htm) and [principles of recursion](http://www.cems.uwe.ac.uk/~irjohnso/coursenotes/lrc/lect/lect4b1.html).
 13) Recursion in C.
 14) Array part 1
 15) Array part 2
