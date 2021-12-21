@@ -16,7 +16,7 @@ ____
 9) [Unicode in Python](https://github.com/Aatmaj-Zephyr/Learning-Python/tree/main/Basic/Day%208)
 10) [Summary of the week and exercises.](https://github.com/Aatmaj-Zephyr/Learning-Python/tree/main/Basic/Day%209)
 11) [Lists in Python](https://github.com/Aatmaj-Zephyr/Learning-Python/tree/main/Basic/Day%2010)
-12) Multidimensional lists and Tuples
+12) [Multidimensional lists and Tuples](https://github.com/Aatmaj-Zephyr/Learning-Python/tree/main/Basic/Day%2011)
 13) Basic algorithms
 14) Stack implementation
 15) Basic Exception and error handling using try-except
