@@ -28,7 +28,7 @@ https://www.byte-by-byte.com/recursion/
 14) Recursion in C.
 15) [Array](https://www.programiz.com/c-programming/c-arrays) part 1
 16) Array part 2
-17) Strings part 1
+17) [Strings](https://www.programiz.com/c-programming/c-strings) part 1
 18) Strings part 2
 19) What are pointers?
 20) Pointer arithmatic.
