@@ -22,7 +22,7 @@ ____
 15) [Basic Exception and error handling using try-except](https://github.com/Aatmaj-Zephyr/Learning-Python/tree/main/Basic/Day%2014)
 16) [More about try-except](https://github.com/Aatmaj-Zephyr/Learning-Python/tree/main/Basic/Day%2015)
 17) [Fractal lists and other questions](https://github.com/Aatmaj-Zephyr/Learning-Python/blob/main/Basic/Day%2016/README.md)
-18) Intro to DSA ^^
+18) [Intro to DSA](https://www.geeksforgeeks.org/introduction-to-data-structures-10-most-commonly-used-data-structures/) ^^
 19) Insertion sort
 20) Dictionaries in Python
 21) Practicing Dictionary exercises
