@@ -17,11 +17,11 @@ ____
 10) [Summary of the week and exercises.](https://github.com/Aatmaj-Zephyr/Learning-Python/tree/main/Basic/Day%209)
 11) [Lists in Python](https://github.com/Aatmaj-Zephyr/Learning-Python/tree/main/Basic/Day%2010)
 12) [Multidimensional lists and Tuples](https://github.com/Aatmaj-Zephyr/Learning-Python/tree/main/Basic/Day%2011)
-13) Basic algorithms
-14) Stack implementation
-15) Basic Exception and error handling using try-except
-16) More about try-except
-17) Fractal lists and other questions
+13) [Basic algorithms](https://github.com/Aatmaj-Zephyr/Learning-Python/tree/main/Basic/Day%2012)
+14) [Stack implementation](https://github.com/Aatmaj-Zephyr/Learning-Python/tree/main/Basic/Day%2013)
+15) [Basic Exception and error handling using try-except](https://github.com/Aatmaj-Zephyr/Learning-Python/tree/main/Basic/Day%2014)
+16) [More about try-except](https://github.com/Aatmaj-Zephyr/Learning-Python/tree/main/Basic/Day%2015)
+17) [Fractal lists and other questions](https://github.com/Aatmaj-Zephyr/Learning-Python/blob/main/Basic/Day%2016/README.md)
 18) Intro to DSA ^^
 19) Insertion sort
 20) Dictionaries in Python
