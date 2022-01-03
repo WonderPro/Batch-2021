@@ -31,7 +31,7 @@ https://www.byte-by-byte.com/recursion/
 17) [Strings](https://www.programiz.com/c-programming/c-strings) part 1
 18) Strings part 2
 19) [What are pointers?](https://www.javatpoint.com/c-pointers)
-20) Pointer arithmatic.
+20) [Pointer arithmatic](https://www.tutorialspoint.com/cprogramming/c_pointer_arithmetic.htm).
 21) Application of pointers.
 22) Pass by value and pass by reference.
 23) Structure in C.
