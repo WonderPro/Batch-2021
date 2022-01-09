@@ -32,7 +32,7 @@ https://www.byte-by-byte.com/recursion/
 18) [Strings part 2](https://www.codingame.com/playgrounds/14213/how-to-play-with-strings-in-c/what-is-a-string-in-c)
 19) [What are pointers?](https://www.javatpoint.com/c-pointers)
 20) [Pointer arithmatic](https://www.tutorialspoint.com/cprogramming/c_pointer_arithmetic.htm).
-21) Application of pointers.
+21) [Application of pointers.](https://www.geeksforgeeks.org/applications-of-pointers-in-c-cpp/)
 22) Pass by value and pass by reference.
 23) Structure in C.
 24) Union in C.
