@@ -24,9 +24,9 @@ ____
 17) [Fractal lists and other questions](https://github.com/Aatmaj-Zephyr/Learning-Python/blob/main/Basic/Day%2016/README.md)
 18) [Intro to DSA](https://www.geeksforgeeks.org/introduction-to-data-structures-10-most-commonly-used-data-structures/) ^^
 19) [Insertion sort](https://github.com/Aatmaj-Zephyr/Learning-Python/blob/main/Basic/Day%2017/README.md)
-20) Dictionaries in Python
-21) Practicing Dictionary exercises
-22) HashTables via Dictionaries
+20) [Dictionaries in Python](https://github.com/Aatmaj-Zephyr/Learning-Python/tree/main/Basic/Day%2018)
+21) [Practicing Dictionary exercises](https://github.com/Aatmaj-Zephyr/Learning-Python/tree/main/Basic/Day%2019)
+22) [HashTables via Dictionaries](https://github.com/Aatmaj-Zephyr/Learning-Python/tree/main/Basic/Day%2020)
 23) Summary of the week and dictionary exercises.
 24) String Methods Part-1
 25) String Methods Part-2
