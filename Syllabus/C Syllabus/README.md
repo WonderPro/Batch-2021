@@ -33,6 +33,7 @@ https://www.byte-by-byte.com/recursion/
 19) [What are pointers?](https://www.javatpoint.com/c-pointers)
 20) [Pointer arithmatic](https://www.tutorialspoint.com/cprogramming/c_pointer_arithmetic.htm).
 21) [Application of pointers.](https://www.geeksforgeeks.org/applications-of-pointers-in-c-cpp/)
-22) Pass by value and pass by reference.
+22) [Pass by value and pass by reference.](https://www.geeksforgeeks.org/difference-between-call-by-value-and-call-by-reference/) 
+https://www.educative.io/edpresso/pass-by-value-vs-pass-by-reference
 23) Structure in C.
 24) Union in C.
