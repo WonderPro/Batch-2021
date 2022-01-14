@@ -35,5 +35,5 @@ https://www.byte-by-byte.com/recursion/
 21) [Application of pointers.](https://www.geeksforgeeks.org/applications-of-pointers-in-c-cpp/)
 22) [Pass by value and pass by reference.](https://www.geeksforgeeks.org/difference-between-call-by-value-and-call-by-reference/) 
 https://www.educative.io/edpresso/pass-by-value-vs-pass-by-reference
-23) Structure in C.
+23)[Structure in C.](https://www.javatpoint.com/structure-in-c)
 24) Union in C.
