@@ -36,4 +36,4 @@ https://www.byte-by-byte.com/recursion/
 22) [Pass by value and pass by reference.](https://www.geeksforgeeks.org/difference-between-call-by-value-and-call-by-reference/) 
 https://www.educative.io/edpresso/pass-by-value-vs-pass-by-reference
 23)[Structure in C.](https://www.javatpoint.com/structure-in-c)
-24) Union in C.
+24) [Union in C.](https://www.naukri.com/learning/articles/difference-between-structure-and-union-in-c/)
