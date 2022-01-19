@@ -28,7 +28,7 @@ ____
 21) [Practicing Dictionary exercises](https://github.com/Aatmaj-Zephyr/Learning-Python/tree/main/Basic/Day%2019)
 22) [HashTables via Dictionaries](https://github.com/Aatmaj-Zephyr/Learning-Python/tree/main/Basic/Day%2020)
 23) [Summary of the week and dictionary exercises.](https://github.com/Aatmaj-Zephyr/Learning-Python/tree/main/Basic/Day%2021)
-24) String Methods Part-1
+24) [String Methods Part-1](https://github.com/Aatmaj-Zephyr/Learning-Python/tree/main/Basic/Day%2022)
 25) String Methods Part-2
 26) String Methods Part-3
 27) Summary of the basic course.
