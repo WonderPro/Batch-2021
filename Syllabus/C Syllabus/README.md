@@ -37,3 +37,7 @@ https://www.byte-by-byte.com/recursion/
 https://www.educative.io/edpresso/pass-by-value-vs-pass-by-reference
 23)[Structure in C.](https://www.javatpoint.com/structure-in-c)
 24) [Union in C.](https://www.naukri.com/learning/articles/difference-between-structure-and-union-in-c/)
+25) Miscelleonous
+- [Comma operator](https://www.geeksforgeeks.org/a-comma-operator-question/)
+- [SizeOF in C](https://www.javatpoint.com/size-of-operator-in-c)
+- [Dereferncing operator in C](https://www.javatpoint.com/c-dereference-pointer#:~:text=The%20dereference%20operator%20is%20also,this%20pointer%20will%20be%20returned.)
