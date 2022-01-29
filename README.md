@@ -7,3 +7,6 @@ ___
 
 
 [Complete Python Roadmap](https://github.com/WonderPro/Batch-2021/blob/4989177656dec87d35ad18877b1bef98b9d86713/Syllabus/Python%20Syllabus/README.md)
+
+
+[Practicals of computer science](https://github.com/WonderPro/Solutions-to-first-year-practicals)
