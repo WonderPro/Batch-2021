@@ -29,9 +29,9 @@ ____
 22) [HashTables via Dictionaries](https://github.com/Aatmaj-Zephyr/Learning-Python/tree/main/Basic/Day%2020)
 23) [Summary of the week and dictionary exercises.](https://github.com/Aatmaj-Zephyr/Learning-Python/tree/main/Basic/Day%2021)
 24) [String Methods Part-1](https://github.com/Aatmaj-Zephyr/Learning-Python/tree/main/Basic/Day%2022)
-25) String Methods Part-2
-26) String Methods Part-3
-27) Summary of the basic course.
+25) [String Methods Part-2](https://github.com/Aatmaj-Zephyr/Learning-Python/tree/main/Basic/Day%2023)
+26) [String Methods Part-3](https://github.com/Aatmaj-Zephyr/Learning-Python/tree/main/Basic/Day%2024)
+27) [Summary of the basic course.](https://github.com/Aatmaj-Zephyr/Learning-Python/tree/main/Basic/Day%2025)
 
 _^^ - Material outside of Python._
 
