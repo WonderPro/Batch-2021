@@ -42,3 +42,4 @@ https://www.educative.io/edpresso/pass-by-value-vs-pass-by-reference
 - [SizeOF in C](https://www.javatpoint.com/size-of-operator-in-c)
 - [Dereferncing operator in C](https://www.javatpoint.com/c-dereference-pointer#:~:text=The%20dereference%20operator%20is%20also,this%20pointer%20will%20be%20returned.)
 - [Command line arguments](https://www.geeksforgeeks.org/command-line-arguments-in-c-cpp/)
+- [Dynamic memory allocation in C](https://www.geeksforgeeks.org/dynamic-memory-allocation-in-c-using-malloc-calloc-free-and-realloc/)
