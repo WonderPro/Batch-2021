@@ -35,6 +35,8 @@ ____
 
 _^^ - Material outside of Python._
 
+Read also
+- [List of beginner projects](https://www.freecodecamp.org/news/python-projects-for-beginners/)
 _____
 
 # Python intermediate (next term) syllabus
