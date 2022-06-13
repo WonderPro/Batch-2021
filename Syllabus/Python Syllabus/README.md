@@ -32,6 +32,7 @@ ____
 25) [String Methods Part-2](https://github.com/Aatmaj-Zephyr/Learning-Python/tree/main/Basic/Day%2023)
 26) [String Methods Part-3](https://github.com/Aatmaj-Zephyr/Learning-Python/tree/main/Basic/Day%2024)
 27) [Summary of the basic course.](https://github.com/Aatmaj-Zephyr/Learning-Python/tree/main/Basic/Day%2025)
+28) [Regex](https://www.w3schools.com/python/python_regex.asp)
 
 _^^ - Material outside of Python._
 
